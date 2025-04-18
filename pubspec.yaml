@@ -1,0 +1,46 @@
+name: wallipapers
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  transparent_image: ^2.0.1
+  animations: ^2.0.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/SplashScreen.png
+    - assets/images/wallilogo.png
+    - assets/images/google.png
+    - assets/images/ghost.png
+    - assets/images/profilebackdrop.png
+    - assets/images/Rectangle7.png
+    - assets/images/Rectangle8.png
+    - assets/images/Rectangle9.png
+    - assets/images/Rectangle11.png
+    - assets/images/Rectangle12.png
+    - assets/images/Rectangle13.png
+    - assets/images/Rectangle14.png
+    - assets/images/Rectangle15.png
+    - assets/images/Rectangle16.png
+    - assets/images/Rectangle17.png
+    - assets/images/Rectangle18.png
+    - assets/images/profile.png
+    - assets/images/wallilogo.png
+    - assets/images/downloade.png
+    - assets/images/walliwatermark.png
+    - assets/images/logoblack.png
